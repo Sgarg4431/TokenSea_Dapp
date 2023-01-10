@@ -6,7 +6,9 @@ This is a simple decenterlized application (Dapp) built on Goerli testnet in whi
 
 ## Features
 
-Person could get required amount of token to there address 
+- Person could get required amount of token to there address 
+
+- Once transaction is completed its details would be shown 
 ## Demo
 
 https://tokensea-alpha.vercel.app/
